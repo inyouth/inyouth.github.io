@@ -1,9 +1,21 @@
 ---
-title: Why Blog
+title: in youth，在青春
 layout: post
 ---
 
-## 对博客的理解
+
+----------
+
+> <center> 在青春</center> 
+> <center> 岁月流年， 青春常在</center> 
+> <center> 信息时代， 程序人生</center>
+
+
+
+
+
+
+
 
 我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
 
@@ -13,6 +25,5 @@ layout: post
 
 ## 博客平台
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://pages.github.com)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题。
+这个博客通过Jekyll 生成，部署在Github，主题基于3-Jekyll和闫肃博客修改生成。
 
-我博客的源码托管在[Github](https://github.com/suyan/suyan.github.io)上，如果有任何改进意见，欢迎讨论。
