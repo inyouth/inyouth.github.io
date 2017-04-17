@@ -6,15 +6,11 @@ layout: post
 
 ----------
 
+<center> 在青春</center> 
 
+<center> 岁月流年， 青春常在</center> 
 
-> <center> 在青春</center> 
-
-
-> <center> 岁月流年， 青春常在</center> 
-
-
-> <center> 信息时代， 程序人生</center>
+<center> 信息时代， 程序人生</center>
 
 ## 博客平台
 

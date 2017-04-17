@@ -14,6 +14,14 @@ ElasticSearch是一个基于Lucene的搜索服务器。它提供了一个分布�
 ## 环境搭建
 系统：ubuntu 14.04  
 Elasticsearch 版本： 5.3
+elasticsearch项目的运行依赖于java，所以需要按照好java环境。
+可以参考[http://www.linuxidc.com/Linux/2014-09/106445.htm](http://www.linuxidc.com/Linux/2014-09/106445.htm)
+```
+qyz@qyz-Lenovo:~/es/elasticsearch-head$ java -version
+java version "1.8.0_121"
+Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
+Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
+```
 1. 下载Elasticsearch代码, 放在es文件夹下
 下载地址：  
 [https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.tar.gz](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-5.3.0.tar.gz)  
