@@ -8,13 +8,13 @@ description: Elasticsearch开源搜索引擎在ubuntu环境下的搭建
 
 ## Elasticsearch介绍
 
-ElasticSearch是一个基于Lucene的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。Elasticsearch是用Java开发的，并作为Apache许可条款下的开放源码发布，是当前流行的企业级搜索引擎。设计用于云计算中，能够达到实时搜索，稳定，可靠，快速，安装使用方便。
+ElasticSearch是一个基于Lucene的搜索服务器。简称ES, 它提供了一个分布式多用户能力的全文搜索引擎，基于RESTful web接口。Elasticsearch是用Java开发的，并作为Apache许可条款下的开放源码发布，是当前流行的企业级搜索引擎。设计用于云计算中，能够达到实时搜索，稳定，可靠，快速，安装使用方便。
 官网：https://www.elastic.co/products/elasticsearch
 
 ## 环境搭建
 系统：ubuntu 14.04  
 Elasticsearch 版本： 5.3
-elasticsearch项目的运行依赖于java，所以需要按照好java环境。
+elasticsearch项目的运行依赖于java，所以需要按照好java环境。  
 可以参考[http://www.linuxidc.com/Linux/2014-09/106445.htm](http://www.linuxidc.com/Linux/2014-09/106445.htm)
 ```
 qyz@qyz-Lenovo:~/es/elasticsearch-head$ java -version
